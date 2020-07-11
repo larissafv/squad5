@@ -1,7 +1,6 @@
 # Para rodar o código, execute "Palavras chave.ipynb"
 
-### O arquivo "out.csv" é uma amostragem de 34.000 tweets a partir do arquivo "tweets_222_23abr2020.json" contendo informações distribuídas
-### ao longo de 7 dias.
+### O arquivo "out.csv" é uma amostragem de 34.000 tweets a partir do arquivo "tweets_222_23abr2020.json" contendo informações distribuídas ao longo de 7 dias.
 
 ### Para a amostragem, foram lidos 1 a cada 200 chunks de 2000 tweets.
 

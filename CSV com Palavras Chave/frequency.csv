@@ -1,0 +1,8 @@
+Day,text
+2020-04-11,"{'corona': 132, 'covid': 258, 'coronavirus': 103}"
+2020-04-12,"{'corona': 359, 'covid': 627, 'coronavirus': 260, 'sars': 3}"
+2020-04-13,"{'covid': 669, 'corona': 455, 'coronavirus': 245}"
+2020-04-14,"{'corona': 691, 'covid': 818, 'coronavirus': 419, 'sars': 5}"
+2020-04-15,"{'covid': 784, 'coronavirus': 436, 'corona': 391, 'sars': 15}"
+2020-04-16,"{'covid': 131, 'corona': 160, 'coronavirus': 80, 'sars': 5}"
+2020-04-22,"{'covid': 418, 'coronavirus': 171, 'corona': 454, 'sars': 5}"
